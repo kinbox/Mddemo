@@ -9,9 +9,9 @@
 * rap
 
 我的女票是
-1.aaa
-2.bbb
-3.fff
+1. aaa
+2. bbb
+3. fff
 
 ~~~javascript
 var a=1
