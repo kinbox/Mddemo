@@ -4,6 +4,10 @@
 
 正文
 我的爱好是
+
+凤凰传奇
+
+我的爱好是
 * 唱
 * 跳
 * rap
@@ -13,11 +17,18 @@
 2. bbb
 3. fff
 
-~~~javascript
+```javascript
 var a=1
 console.log(a)
-~~~
+```
 
 我的[baidu](www.baidu.com)
 
+
+
 ![一张图片](1.png)
+
+
+```html
+<head>as</head>
+```
